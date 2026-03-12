@@ -8,9 +8,9 @@ import {
 import './Navbar.css'
 
 const navLinks = [
-    { label: 'About', href: '#about' },
+    { label: 'About', href: '#problem' },
+    { label: 'Solution', href: '#solution' },
     { label: 'Features', href: '#features' },
-    { label: 'Who We Serve', href: '#audience' },
     { label: 'Valido', href: '#valido' },
 ]
 
